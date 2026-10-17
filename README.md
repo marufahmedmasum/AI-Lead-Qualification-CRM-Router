@@ -5,7 +5,7 @@ An n8n workflow that takes an inbound B2B lead from a web form to a **validated,
 **Stack:** n8n · LLM via OpenRouter (OpenAI-compatible node) · HubSpot · Google Sheets · Gmail · Telegram
 **Size:** 29 nodes — 1 Form Trigger · 8 Code · 3 IF · 1 Switch · LLM chain + chat model + structured output parser · 1 HubSpot HTTP request · 2 Google Sheets · 5 Gmail · 5 Telegram
 
-![Workflow overview](screenshots/workflow-overview.png)
+![Workflow overview](workflow-overview.png)
 
 ## What it does
 
